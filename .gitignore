@@ -1,0 +1,10 @@
+/target
+juego
+concatenateProjectFiles08.py
+ConcatenateProyectFiles.Config.yaml
+project_files.txt
+Cargo.lock
+*.cpp
+*.exe
+juego.rs
+*.bat
